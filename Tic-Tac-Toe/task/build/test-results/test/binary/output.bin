@@ -1,0 +1,27 @@
+[1;31m
+Start test 1[0m
+Enter cells: > XXXOO__O_
+---------
+| X X X |
+| O O _ |
+| _ O _ |
+---------
+X wins
+[1;31m
+Start test 2[0m
+Enter cells: > XOXOXOXXO
+---------
+| X O X |
+| O X O |
+| X X O |
+---------
+X wins
+[1;31m
+Start test 3[0m
+Enter cells: > XOOOXOXXO
+---------
+| X O O |
+| O X O |
+| X X O |
+---------
+X wins
